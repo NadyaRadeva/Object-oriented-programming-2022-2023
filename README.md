@@ -1,4 +1,4 @@
-# Object-oriented-programming-2022-2023-redone-projects
+# Object-oriented-programming-2022-2023-polished version
 Newer and more complete version of the projects in the 'OOP 2022-2023' repository.
 
 | Week  | Topic | Link |
