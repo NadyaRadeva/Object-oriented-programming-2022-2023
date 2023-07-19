@@ -1,12 +1,9 @@
 # Object-oriented-programming-2022-2023---redone-projects
 Newer and more complete version of the projects in the 'OOP 2022-2023' repository.
 
-# OOP-2022-2023
-Projects made during practicals for the Object-Oriented Programming course at FMI, University of Sofia.
-
 | Week  | Topic | Link |
 | ------------- | ------------- | ------------- |
-| Week 1 (22.02.2023)  | ***Structures*** | Visit |
+| Week 1 (22.02.2023)  | ***Structures*** | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2022-2023---redone-projects/tree/main/Week%201%20-%20Structures) |
 | Week 2 (28.02.2023)  | ***Classes*** | Visit  |
 | Week 3 (09.03.2023)  | ***Constructor, destructor, copy-constructor and operator '='*** | Visit |
 | Week 4 (14.03.2023)  | ***Move-constructor + operator =, оperator overloading and friend functions*** | Visit  |
