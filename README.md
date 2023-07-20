@@ -4,7 +4,7 @@ Newer and more complete version of the projects in the 'OOP 2022-2023' repositor
 | Week  | Topic | Link |
 | ------------- | ------------- | ------------- |
 | Week 1 (22.02.2023)  | ***Structures*** | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2022-2023---redone-projects/tree/main/Week%201%20-%20Structures) |
-| Week 2 (28.02.2023)  | ***Classes*** | Visit  |
+| Week 2 (28.02.2023)  | ***Classes*** | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2022-2023-polished-version/tree/main/Week%202%20-%20Classes)  |
 | Week 3 (09.03.2023)  | ***Constructor, destructor, copy-constructor and operator '='*** | Visit |
 | Week 4 (14.03.2023)  | ***Move-constructor + operator =, оperator overloading and friend functions*** | Visit  |
 | Week 5 (21.03.2023)  | ***Streams and files*** | Visit  |
