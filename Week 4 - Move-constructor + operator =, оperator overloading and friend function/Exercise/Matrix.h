@@ -24,6 +24,7 @@ public:
 	Matrix operator-(Matrix const& other) const;
 	Matrix operator*(Matrix const& other) const;
 	bool operator==(Matrix const& other) const;
+	bool operator!=(Matrix const& other) const;
 
 	friend Matrix transpose(Matrix const& matrix);
 	friend void print(Matrix const& matrix);
