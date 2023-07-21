@@ -126,6 +126,20 @@ bool Matrix::operator==(Matrix const& other) const {
 	return true;
 }
 
+bool Matrix::operator==(Matrix const& other) const {
+	if (r != other.r || cols != other.cols) {
+		return true;
+	}
+	for (int i = 0; i < r; i++) {
+		for (int j = 0; j < cols; j++) {
+			if (mtrx[i][j] != other.mtrx[i][j]) {
+				return true;
+			}
+		}
+	}
+	return false;
+}
+
 Matrix transpose(Matrix const& matrix){
 	Matrix result(matrix.cols, matrix.r);
 	for (int i = 0; i < matrix.r; i++) {
