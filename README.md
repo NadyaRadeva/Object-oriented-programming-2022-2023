@@ -10,7 +10,7 @@ Newer and more complete version of the projects in the 'OOP 2022-2023' repositor
 | Week 5 (21.03.2023)  | ***Streams and files*** | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2022-2023-polished-version/tree/main/Week%205%20-%20Stream%20and%20files)  |
 | Week 6 (28.03.2023)  |  ***Binary files*** | Visit |
 | Week 7 (04.04.2023)  | ***Classes and files (exercises)*** | Visit |
-| Week 8 (25.04.2023)  | ***Templates*** | Visit|
+| Week 8 (25.04.2023)  | ***Templates*** | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2022-2023-polished-version/tree/main/Week%208%20-%20Templates)|
 | Week 9 (02.05.2023)  | ***Inheritance*** | Visit|
 | Week 10 (09.05.2023)  | ***Polymorphysm, virtual functions and abstract classes*** | Visit|
 | Week 11 (16.05.2023)  | ***Static fields and methods*** | Visit |
