@@ -4,6 +4,7 @@
 #define SQAURE_H_
 
 class Square : public Shape {
+private:
 	double side;
 
 public:
