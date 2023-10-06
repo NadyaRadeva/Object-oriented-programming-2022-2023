@@ -5,6 +5,7 @@
 #define CIRCLE_H_
 
 class Circle : public Shape {
+private:
 	double radius;
 
 public:
