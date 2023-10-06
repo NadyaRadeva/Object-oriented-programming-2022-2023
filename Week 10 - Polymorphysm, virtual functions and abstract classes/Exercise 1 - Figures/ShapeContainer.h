@@ -6,6 +6,7 @@
 #define SHAPECONTAINER_H_
 
 class ShapeContainer {
+private:
 	std::vector <Shape*> container;
 
 	void copy(const ShapeContainer& other);
