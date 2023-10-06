@@ -4,6 +4,7 @@
 #define SHAPE_H_
 
 class Shape {
+private:
 	std::string label;
 
 public:
